@@ -1,0 +1,12 @@
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\bin\Debug\netcoreapp3.1\WebPosterApplication.deps.json
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\bin\Debug\netcoreapp3.1\WebPosterApplication.dll
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\bin\Debug\netcoreapp3.1\WebPosterApplication.pdb
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\bin\Debug\netcoreapp3.1\WebPosterDomain.dll
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\bin\Debug\netcoreapp3.1\WebPosterDomain.pdb
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\obj\Debug\netcoreapp3.1\WebPosterApplication.csprojAssemblyReference.cache
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\obj\Debug\netcoreapp3.1\WebPosterApplication.AssemblyInfoInputs.cache
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\obj\Debug\netcoreapp3.1\WebPosterApplication.AssemblyInfo.cs
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\obj\Debug\netcoreapp3.1\WebPosterApplication.csproj.CoreCompileInputs.cache
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\obj\Debug\netcoreapp3.1\WebPosterApplication.csproj.CopyComplete
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\obj\Debug\netcoreapp3.1\WebPosterApplication.dll
+C:\Test\Zemoga\WebPosterApp\WebPoster\WebPosterApplication\obj\Debug\netcoreapp3.1\WebPosterApplication.pdb
